@@ -9,7 +9,7 @@
 
 A people-oriented and ready-to-learn person with great communication skills and understanding and a passion for learning new technologies.
 
-- 💻 I’m currently working as an Flutter Developer intern at [Persist Ventures](https://persistventures.com/).
+- 💻 I’m currently working as an Application Developer intern at [Persist Ventures](https://persistventures.com/).
 - 📜 Checkout My [**Resume**](https://drive.google.com/uc?export=download&id=1pUSkz1LSkOHR2-kU7R03zq3P2KJOyQEW)
 - 📫 How to reach me: sensubhrojyoti57@gmail.com
 
