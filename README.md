@@ -5,9 +5,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sensubhrojyoti57@gmail.com)
 [![Github](https://img.shields.io/github/followers/its-subhro?label=Follow&style=social)](https://github.com/its-subhro)
 
-A people-oriented and ready-to-learn person with great communication skills and understanding and a passion for learning new technologies.
+I’m the guy who writes code like a magician and builds tech solutions that make things happen. Whether it’s engineering systems or creating innovative strategies, I bring creativity and precision to everything I do. Think of me as the person who tackles problems before they even become problems.
 
-- 💻 I’m currently working as an Application Developer intern at [Persist Ventures](https://persistventures.com/).
+When I’m not coding or brainstorming, you’ll probably find me diving into the world of social media marketing or coming up with the next big idea. Oh, and did I mention I’m a part-time Batman? It’s all about balancing tech, creativity, and a bit of humor.
+
+- 💻 Ex Application Developer intern at [Persist Ventures](https://persistventures.com/).
 - 📜 Checkout My [**Resume**](https://drive.google.com/uc?export=download&id=1pUSkz1LSkOHR2-kU7R03zq3P2KJOyQEW)
 - 📫 How to reach me: sensubhrojyoti57@gmail.com
 
