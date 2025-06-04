@@ -1,8 +1,7 @@
 # Subhrojyoti Sen
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/its_subhro)](https://twitter.com/its_subhro)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subhrojyoti-sen/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_itz_subhro/)](https://www.instagram.com/_itz_subhro)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sensubhrojyoti57@gmail.com)
 [![Github](https://img.shields.io/github/followers/its-subhro?label=Follow&style=social)](https://github.com/its-subhro)
 
